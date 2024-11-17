@@ -11,7 +11,7 @@ Adivinhar um número secreto gerado aleatoriamente pelo computador na qual o jog
 
 ## 🕹️Como jogar
 ### ☁️Clonar o repositório:
-1. Para jogar, clone o repositório em seu ambiente local, você pode fazer isso executando o seguinte comando no terminal:
+1. Para jogar, clone o repositório em seu ambiente local, você pode fazer isso executando o seguinte comando no terminal: git clone https://github.com/GGasparotto-code/desafio-numero-secreto.git
 2. Acesse o projeto: Navegue até a pasta do projeto recém-clonado em seu terminal e abra o arquivo index.html em seu navegador. Por exemplo, utilizando o VS Code, você pode abrir o terminal integrado e executar: code index.html
 
 ### ⬇️Fazendo o download do repositório:
